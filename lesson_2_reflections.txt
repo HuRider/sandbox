@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository informs GIT that you'll like to start tracking files.  You need to do this in order to manage the configuration of the files.
