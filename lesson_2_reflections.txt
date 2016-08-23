@@ -1,8 +1,9 @@
-What happens when you initialize a repository? Why do you need to do it?
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: Initializing a repository informs GIT that you'll like to start tracking files.  You need to do this in order to manage the configuration of the files.
 
-Initializing a repository informs GIT that you'll like to start tracking files.  You need to do this in order to manage the configuration of the files.
-more changes...
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Branches would help keep my history organized as it separates a change into it's own area
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-
-Branches would help keep my history organized as it separates a change into it's own area
+Reflect: Visualizing with Diagrams
+Q: How do the diagrams help you visualize the branch structure?
+A: Its easy to get loss with commits and parents and determining how things are connected. Having a diagram helps to solidify the connections
