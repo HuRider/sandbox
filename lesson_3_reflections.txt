@@ -3,3 +3,6 @@ A: You would want to create a remote repository When you like to backup your dat
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with you remote repository?
 A: Locally, I may be experimenting and not quite ready for public distribution.  If Git automatically stayed up-to-date with my remote repository, there may be extraneous syncing and unwanted material.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Forks is a GitHub tool to copy a repository for yourself.  Clone is copying a repository from one location to another whether it's local or remote. Branches are points of diversion when an author wishes to makes changes without effecting the orginal.  Fork is a special chone and would be used on GitHub when one wants to start off using a set of files already on GitHub.  Clone is used when one wants to copy a set of files from one location to another.  Brnaching is used when one wants to make edits without effecting the original.
