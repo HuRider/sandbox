@@ -12,3 +12,6 @@ A: One advantages of having the last known state of remote stored lcoally is so 
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: Without Git or GitHub, I would collaborate with a shared folder.  Configuration control and merging would be more difficult.  Setting up woul dbe easier as more people are familiar with folders.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: I would want to make changes in a separate branch when I am experimenting, developing features, modifying code while not wanting to corrupt a working master in a collaborative environment.  The benefit of this approach is others can work freely with a master that is operational.  Working in solitude, one can more easily revert to previous versions.
