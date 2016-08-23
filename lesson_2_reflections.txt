@@ -11,3 +11,8 @@ A: Its easy to get loss with commits and parents and determining how things are 
 Reflect: Merging Two Branches
 Q: What is the result of merging two brances together? Why do we represent it in the diagram the way we do?
 A: The result of merging two branches together combines all of the commits of the two branches.  Commits are combined and logged chronologically.  The automatic merging uses recursive logic that compares the common parent with the two distinct files.
+
+Reflect: Automatic vs. Manual Merging
+Q: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+A: Using Git's automatic merging utility saves time, but the users will lose some visibility of the code which may introduce bugs in the future
+
