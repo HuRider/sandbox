@@ -7,3 +7,7 @@ A: Branches would help keep my history organized as it separates a change into i
 Reflect: Visualizing with Diagrams
 Q: How do the diagrams help you visualize the branch structure?
 A: Its easy to get loss with commits and parents and determining how things are connected. Having a diagram helps to solidify the connections
+
+Reflect: Merging Two Branches
+Q: What is the result of merging two brances together? Why do we represent it in the diagram the way we do?
+A: The result of merging two branches together combines all of the commits of the two branches.  Commits are combined and logged chronologically.  The automatic merging uses recursive logic that compares the common parent with the two distinct files.
