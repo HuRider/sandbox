@@ -9,3 +9,6 @@ A: Forks is a GitHub tool to copy a repository for yourself.  Clone is copying a
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: One advantages of having the last known state of remote stored lcoally is so that states can be compared.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Without Git or GitHub, I would collaborate with a shared folder.  Configuration control and merging would be more difficult.  Setting up woul dbe easier as more people are familiar with folders.
